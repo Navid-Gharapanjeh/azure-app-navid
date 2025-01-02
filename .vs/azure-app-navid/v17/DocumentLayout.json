@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ghara\\source\\repos\\azure-app-navid\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87E2C9DD-AB0A-42CF-A1C4-54E85855B01B}|azure-app-navid.csproj|c:\\users\\ghara\\source\\repos\\azure-app-navid\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2C9DD-AB0A-42CF-A1C4-54E85855B01B}|azure-app-navid.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2C9DD-AB0A-42CF-A1C4-54E85855B01B}|azure-app-navid.csproj|c:\\users\\ghara\\source\\repos\\azure-app-navid\\pages\\deploymentslots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87E2C9DD-AB0A-42CF-A1C4-54E85855B01B}|azure-app-navid.csproj|solutionrelative:pages\\deploymentslots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87E2C9DD-AB0A-42CF-A1C4-54E85855B01B}|azure-app-navid.csproj|c:\\users\\ghara\\source\\repos\\azure-app-navid\\azure-app-navid.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{87E2C9DD-AB0A-42CF-A1C4-54E85855B01B}|azure-app-navid.csproj|solutionrelative:azure-app-navid.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
@@ -47,6 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ghara\\source\\repos\\azure-app-navid\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\ghara\\source\\repos\\azure-app-navid\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:36:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeploymentSlots.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghara\\source\\repos\\azure-app-navid\\Pages\\DeploymentSlots.cshtml",
+              "RelativeDocumentMoniker": "Pages\\DeploymentSlots.cshtml",
+              "ToolTip": "C:\\Users\\ghara\\source\\repos\\azure-app-navid\\Pages\\DeploymentSlots.cshtml",
+              "RelativeToolTip": "Pages\\DeploymentSlots.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T14:34:30.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "azure-app-navid",
               "DocumentMoniker": "C:\\Users\\ghara\\source\\repos\\azure-app-navid\\azure-app-navid.csproj",
               "RelativeDocumentMoniker": "azure-app-navid.csproj",

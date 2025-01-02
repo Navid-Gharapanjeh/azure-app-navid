@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-navid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72b6081b4d1e2fa570d47364b8660d9d95543026")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6868977bf5a2789f3a61eac916ba6f785ac84f0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-navid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-navid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
