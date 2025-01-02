@@ -1,0 +1,7 @@
+C:\Users\ghara\source\repos\azure-app-navid\publish\azure-app-navid.exe
+C:\Users\ghara\source\repos\azure-app-navid\publish\appsettings.Development.json
+C:\Users\ghara\source\repos\azure-app-navid\publish\appsettings.json
+C:\Users\ghara\source\repos\azure-app-navid\publish\azure-app-navid.dll
+C:\Users\ghara\source\repos\azure-app-navid\publish\azure-app-navid.deps.json
+C:\Users\ghara\source\repos\azure-app-navid\publish\azure-app-navid.runtimeconfig.json
+C:\Users\ghara\source\repos\azure-app-navid\publish\azure-app-navid.pdb

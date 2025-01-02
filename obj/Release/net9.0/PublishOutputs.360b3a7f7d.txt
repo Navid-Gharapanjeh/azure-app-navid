@@ -1,0 +1,7 @@
+C:\Users\ghara\source\repos\azure-app-navid\bin\Release\net9.0\publish\azure-app-navid.exe
+C:\Users\ghara\source\repos\azure-app-navid\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\ghara\source\repos\azure-app-navid\bin\Release\net9.0\publish\appsettings.json
+C:\Users\ghara\source\repos\azure-app-navid\bin\Release\net9.0\publish\azure-app-navid.dll
+C:\Users\ghara\source\repos\azure-app-navid\bin\Release\net9.0\publish\azure-app-navid.deps.json
+C:\Users\ghara\source\repos\azure-app-navid\bin\Release\net9.0\publish\azure-app-navid.runtimeconfig.json
+C:\Users\ghara\source\repos\azure-app-navid\bin\Release\net9.0\publish\azure-app-navid.pdb
