@@ -5,6 +5,13 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_navid</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/b34600f4-bf58-4248-a928-dea0d3e8de60/resourceGroups/webapp-navid-vscode01/providers/microsoft.insights/components/azure-app-navid</ApplicationInsightsResourceId>
+    <UserSecretsId>41920527-92f5-48f0-ac9d-9110d7c08e71</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.13.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.22.0" />
+  </ItemGroup>
 
 </Project>
